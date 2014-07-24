@@ -6,4 +6,9 @@ The font for crystal-clear coding.
 ![Deccy's characters](Preview/Code1.png)
 ![Deccy's characters](Preview/Code2.png)
 
-
+```json
+"font_options":
+[
+    "no_antialias"
+]
+```
