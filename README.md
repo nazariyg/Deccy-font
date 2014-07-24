@@ -18,3 +18,5 @@ Deccy looks best with text anti-aliasing turned off. If you are using Sublime Te
 ```
 
 On Mac, the optimal font size for Deccy would be either 12 or 25, depending on the DPI of your display. On Windows, the optimal font size would be either 10 or 19.
+
+In Sublime Text, you could also add `"no_italic"` and `"no_bold"` to `"font_options"` if doing so makes sense for the syntax highlighting used.
