@@ -6,7 +6,7 @@ The font for crystal-clear coding.
 ![Deccy's characters](Preview/Code1.png)
 ![Deccy's characters](Preview/Code2.png)
 
-To achieve greater code clarity and readability, the round, square, curly, and angle brackets are "hard-coded" to always appear bold. Same goes for dots, commas, semicolons, the mathematical operators, and a few other characters.
+To achieve greater code clarity and readability, the round, square, curly, and angle brackets always appear bold. Same goes for dots, commas, semicolons, the mathematical operators, and a few other characters.
 
 Deccy looks best with text anti-aliasing turned off. If you are using Sublime Text, you can disable text anti-aliasing by adding the following to your User Settings file:
 
