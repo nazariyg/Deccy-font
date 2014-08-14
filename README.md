@@ -2,9 +2,11 @@
 
 The font for crystal-clear coding.
 
-![Deccy's characters](Preview/Characters.png)
-![Deccy's characters](Preview/Code1.png)
-![Deccy's characters](Preview/Code2.png)
+<p align="center">
+  <img src="Preview/Characters.png"/>
+  <img src="Preview/Code1.png"/>
+  <img src="Preview/Code2.png"/>
+</p>
 
 To achieve greater code clarity and readability, the round, square, curly, and angle brackets always appear bold. Same goes for dots, commas, semicolons, the mathematical operators, and a few other characters.
 
